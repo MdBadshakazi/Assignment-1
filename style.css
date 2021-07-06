@@ -1,0 +1,30 @@
+body{
+    font-family: 'Uchen', serif;
+   
+}
+h1{font-size: 30px;}
+.span{
+    color:rgb(70, 216, 25);
+}
+section{
+    display: flex;
+    margin-bottom: 150px;
+}
+.half-width{
+    width: 100%;
+    padding: 2%;
+}
+.half-width img{
+    width: 70%;
+}
+.anchor-tag{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(209, 142, 17), tomato);
+    padding: 10px 40px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 800;
+}
+.background{
+    background-image: url(image/7.png);
+}
